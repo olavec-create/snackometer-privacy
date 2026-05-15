@@ -36,4 +36,4 @@ This privacy policy may be updated if Snackometer's features or data practices c
 
 For questions about this privacy policy, contact:
 
-olavec@gmail.com
+snackometer@olave.net
